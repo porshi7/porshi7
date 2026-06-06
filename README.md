@@ -1,12 +1,12 @@
-![UI-UX designer, Front-end Developer](https://scontent.fcgp6-1.fna.fbcdn.net/v/t39.30808-6/473618132_1116276609991501_5349914121055547452_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeE0icH9ufoLhvsvGFyUWvOwTz4tWK8sTmZPPi1YryxOZrkfDEUUumXnduMY1ofFQc9Q_7kQ-RZcJxqvQnJKV7mo&_nc_ohc=R_I5_kA55YgQ7kNvgEzXkKB&_nc_zt=23&_nc_ht=scontent.fcgp6-1.fna&_nc_gid=AowdikeF5fqKi3e1FlDIWu3&oh=00_AYBMc_ehq02qAeC3RQqFAofIGGz7YQ6wRxLG1w0KIuTupA&oe=67A5FF5A)
+![UI-UX designer](https://scontent.fcgp6-1.fna.fbcdn.net/v/t39.30808-6/473618132_1116276609991501_5349914121055547452_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeE0icH9ufoLhvsvGFyUWvOwTz4tWK8sTmZPPi1YryxOZrkfDEUUumXnduMY1ofFQc9Q_7kQ-RZcJxqvQnJKV7mo&_nc_ohc=R_I5_kA55YgQ7kNvgEzXkKB&_nc_zt=23&_nc_ht=scontent.fcgp6-1.fna&_nc_gid=AowdikeF5fqKi3e1FlDIWu3&oh=00_AYBMc_ehq02qAeC3RQqFAofIGGz7YQ6wRxLG1w0KIuTupA&oe=67A5FF5A)
 
 ## Hi there 👋, I am Neshat Tasneem
-#### UI-UX designer, Front-end Developer
+#### UI-UX designer
 
 
 I made this project just for fun, it allows you to create nice and simple website.
 
-Skills: JS / HTML / CSS
+Skills: JS / HTML / CSS/ Python/ Php
 
 - 🔭 I’m currently working on GAO Tek  
 - 🌱 I’m currently learning JavaScript  

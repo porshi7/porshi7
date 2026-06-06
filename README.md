@@ -9,10 +9,15 @@ I made this project just for fun, it allows you to create nice and simple websit
 Skills: JS / HTML / CSS / Python / PHP
 
 🔭 I’m currently working on GAO Tek
+
 🌱 I’m currently learning JavaScript & UX Design
+
 👥 I’m looking to collaborate on GitHub
+
 🎨 Passionate about UX/UI Design
+
 🧠 I focus on user-friendly experiences
+
 💬 Ask me about Web Development & UX 
 
 
